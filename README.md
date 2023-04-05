@@ -16,14 +16,14 @@ Para colocar la venda a una persona o personas necesitaremos ejecutar el siguien
 ```
 /execute as <JUGADOR> run function vendaje:_set
 ```
-Donde reemplazaremos <JUGADOR> por el nombre del jugador o el selector de los jugadores a los cuales queremos aplicar la venda.
+Donde reemplazaremos `<JUGADOR>` por el nombre del jugador o el selector de los jugadores a los cuales queremos aplicar la venda.
  
 ### Quitar la venda
 Para quitar la venda a una persona o personas necesitaremos ejecutar el siguiente comando:
 ```
 /execute as <JUGADOR> run function vendaje:_unset
 ```
-Donde reemplazaremos <JUGADOR> por el nombre del jugador o el selector de los jugadores a los cuales queremos quitar la venda.
+Donde reemplazaremos `<JUGADOR>` por el nombre del jugador o el selector de los jugadores a los cuales queremos quitar la venda.
 
 ## Personalización
 Si queremos cambiar la textura de la venda que viene por default en el resourcepack deberemos de modificar la textura `venda.png` ubicada en `VendajeRP\assets\minecraft\textures\vendaje`
