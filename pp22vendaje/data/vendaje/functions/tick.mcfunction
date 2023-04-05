@@ -1,0 +1,1 @@
+title @a[tag=vendaje] title {"text": "\uEFFF"}
