@@ -6,7 +6,7 @@
 - Posibilidad de modificar la textura de la venda.
 
 ## Descargar e instalar
-Primero necesitaremos [***descargar***](https://github.com/Julioxidop/Vendaje/releases/tag/1.0 "aquí") el datapack y el resourcepack, después descomprimimos el archivo y nos quedaremos con 2 carpetas:
+Primero necesitaremos [***descargar***](https://github.com/Julioxidop/Vendaje/releases/tag/1.0 "aquí") este archivo que con tiene el resourcepack y datapack, después descomprimimos el archivo y nos quedarán 2 carpetas:
 - **VendajeRP** el cual colocaremos dentro de nuestra carpeta de resourcepacks.
 - **p22vendaje** el cual colocaremos dentro de la carpeta datapacks de nuestro mundo.
 
