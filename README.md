@@ -21,12 +21,14 @@ Donde reemplazaremos <JUGADOR> por el nombre del jugador o el selector de los ju
 ### Quitar la venda
 Para quitar la venda a una persona o personas necesitaremos ejecutar el siguiente comando:
 ```
-/execute as <JUGADOR> run function vendaje:_set
+/execute as <JUGADOR> run function vendaje:_unset
 ```
 Donde reemplazaremos <JUGADOR> por el nombre del jugador o el selector de los jugadores a los cuales queremos quitar la venda.
 
 ## Personalización
-Si queremos cambiar la textura de la venda que viene por default en el resourcepack deberemos de cambiar la textura `axd`
+Si queremos cambiar la textura de la venda que viene por default en el resourcepack deberemos de modificar la textura `venda.png` ubicada en `VendajeRP\assets\minecraft\textures\vendaje`
+ 
+ **Si vamos a crear una de 0 debe de tener un tamaño de 32x32 pixeles**
  
 ## Notas
 - Si encuentras algun fallo, tienes alguna duda o quieres contactar conmigo, mi user de discord es: **hugme#8792**
