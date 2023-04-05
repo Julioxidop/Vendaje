@@ -3,7 +3,7 @@
  
 ## Caracteristicas
 - Bloquea la visión en F5
-- Todos los archivos y funciones lista para su uso directo.
+- Todos los archivos y funciones listos para su uso directo.
 - Posibilidad de modificar la textura de la venda.
 
 ## Descargar e instalar
