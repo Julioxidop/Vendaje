@@ -3,8 +3,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:vendaje/venda.png",
-            "ascent": 64,
-            "height": 180,
+            "ascent": 160,
+            "height": 360,
             "chars": ["\uEFFF"]
         }
     ]
