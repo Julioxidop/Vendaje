@@ -2,6 +2,7 @@
  Resourcepack y datapack listo para implementar un vendaje en minecraft
  
 ## Caracteristicas
+- Bloquea la visión en F5
 - Todos los archivos y funciones lista para su uso directo.
 - Posibilidad de modificar la textura de la venda.
 
@@ -31,4 +32,5 @@ Si queremos cambiar la textura de la venda que viene por default en el resourcep
  **Si vamos a crear una de 0 debe de tener un tamaño de 32x32 pixeles**
  
 ## Notas
+- No bloquea la visión en F1
 - Si encuentras algun fallo, tienes alguna duda o quieres contactar conmigo, mi user de discord es: **hugme#8792**
