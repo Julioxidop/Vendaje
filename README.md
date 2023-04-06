@@ -8,7 +8,7 @@
   * [Como usar](#como-usar)
     + [Colocar la venda](#colocar-la-venda)
     + [Quitar la venda](#quitar-la-venda)
-  * [Personalización](#personalizaci-n)
+  * [Personalización](#personalizacion)
   * [Notas](#notas)
 
 ## Caracteristicas
