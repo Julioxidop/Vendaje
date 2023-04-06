@@ -1,6 +1,16 @@
 # Vendaje
  Resourcepack y datapack listo para implementar un vendaje en minecraft
- 
+
+## Tabla de contenidos
+- [Vendaje](#vendaje)
+  * [Caracteristicas](#caracteristicas)
+  * [Descargar e instalar](#descargar-e-instalar)
+  * [Como usar](#como-usar)
+    + [Colocar la venda](#colocar-la-venda)
+    + [Quitar la venda](#quitar-la-venda)
+  * [Personalización](#personalizaci-n)
+  * [Notas](#notas)
+
 ## Caracteristicas
 - Bloquea la visión en F5
 - Todos los archivos y funciones listos para su uso directo.
